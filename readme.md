@@ -1,5 +1,5 @@
 # Demo 
-CTE FUNCTION 
+CTE FUNCTION! 
 
 WITH logs AS (
   SELECT DISTINCT *
